@@ -1,0 +1,43 @@
+body { /*centering and perfecting the background image*/
+  background-color: lightgrey;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-image: url(../css/Images/palm.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+div {
+  background-color: rgba(255, 255, 255, 0.5);
+  width:850px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+}
+
+h1 {
+font-family: 'Playfair Display SC', serif;
+font-size: 75px;
+color: 	dimgrey;
+text-align: center;
+text-decoration: overline;
+line-height: 25%;
+}
+
+h2 {
+  font-family: 'Amatic SC', cursive;
+  letter-spacing: 9px;
+  font-size: 25px;
+  color: dimgrey;
+  text-align: center;
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Playfair Display SC', serif;
+  font-size: 18px;
+  color: dimgrey;
+  text-align: center;
+  text-decoration: none;
+}

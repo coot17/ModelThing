@@ -8,7 +8,7 @@ body { /*centering and perfecting the background image*/
 }
 
 div {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.7);
   width:850px;
   height: 100%;
   margin-left: auto;
@@ -22,7 +22,6 @@ font-size: 75px;
 color: 	dimgrey;
 text-align: center;
 text-decoration: overline;
-line-height: 25%;
 }
 
 h2 {
